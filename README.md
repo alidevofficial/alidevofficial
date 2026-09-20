@@ -1,97 +1,56 @@
-# Hi there, I'm Muhammad Ali Ramzan 👋
+# 🌐 Personal Portfolio Website
 
-### 🚀 Full-Stack Web Developer | UI/UX & Creative Tech | Telecom Background
+> Official personal portfolio website showcasing my web development projects, creative interfaces, and technical skills.
 
-I build modern, responsive web applications, creative interactive interfaces, and automated digital tools. Passionate about turning complex logic into smooth, user-friendly experiences.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Frontend & Design:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-**Backend & Tools:**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+[![Live Site](https://img.shields.io/badge/Live_Site-Visit_Portfolio-brightgreen?style=for-the-badge&logo=google-chrome)](https://alidevofficial.github.io/Ali-Portfolio/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/alidevofficial/Ali-Portfolio)
 
 ---
 
-### 📌 Highlights & Interests
+## 🚀 Live Demo
 
-- 🌐 **Web Applications:** Interactive frontends, dark/light mode architectures, and custom dashboards.
-- ⚙️ **Automation & Bots:** API integrations, web scrapers, and automated notification bots.
-- 🎨 **Creative Design:** Glassmorphism UI, vector graphics, and video production.
-- 📚 **Teaching & Sharing:** Conducting online tech sessions, AI workflows, and practical web development.
+Check out the live interactive website here:  
+👉 **[alidevofficial.github.io/Ali-Portfolio](https://alidevofficial.github.io/Ali-Portfolio/)**
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Key Features
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alidevofficial&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidevofficial&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- **Responsive Design:** Fully optimized across mobile, tablet, and widescreen desktop layouts.
+- **Interactive UI:** Smooth transitions, modern animations, and intuitive navigation.
+- **Project Showcase:** Highlights key web development projects, automation tools, and creative work.
+- **Contact & Socials:** Quick access to reach out via socials and direct communication channels.
 
 ---
+
+## 🛠️ Built With
+
+- **HTML5:** Semantic document structure and accessibility.
+- **CSS3 / Modern Styling:** Custom styling, responsive Grid & Flexbox, smooth transitions.
+- **JavaScript (ES6+):** Interactive logic, UI controls, and event listeners.
+- **GitHub Pages:** Static hosting and continuous deployment.
+
+---
+
+## 💻 Local Setup & Development
+
+To view or edit this project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/alidevofficial/Ali-Portfolio.git](https://github.com/alidevofficial/Ali-Portfolio.git)
+
+2. Open the folder:
+cd Ali-Portfolio
+
+👤 Author
+Muhammad Ali Ramzan
+
+Website: Ali's Portfolio
+
+GitHub: @alidevofficial
 
 ### 📬 Connect With Me
 
-- 🌐 **Live Portfolio:** [alidevofficial.github.io/Ali-Portfolio](https://alidevofficial.github.io/Ali-Portfolio/)
-- 💻 **GitHub:** [@alidevofficial](https://github.com/alidevofficial)# Hi there, I'm Muhammad Ali Ramzan 👋
-
-### 🚀 Full-Stack Web Developer | UI/UX & Creative Tech | Telecom Background
-
-I build modern, responsive web applications, creative interactive interfaces, and automated digital tools. Passionate about turning complex logic into smooth, user-friendly experiences.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Frontend & Design:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-**Backend & Tools:**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-### 📌 Highlights & Interests
-
-- 🌐 **Web Applications:** Interactive frontends, dark/light mode architectures, and custom dashboards.
-- ⚙️ **Automation & Bots:** API integrations, web scrapers, and automated notification bots.
-- 🎨 **Creative Design:** Glassmorphism UI, vector graphics, and video production.
-- 📚 **Teaching & Sharing:** Conducting online tech sessions, AI workflows, and practical web development.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alidevofficial&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidevofficial&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 📬 Connect With Me
-
-- 🌐 **Live Portfolio:** [alidevofficial.github.io/Ali-Portfolio](https://alidevofficial.github.io/Ali-Portfolio/)
+- 🌐 **Live Portfolio:** [alidevofficial.github.io/OnlineLearningHub](https://alidevofficial.github.io/agetimecalc)
 - 💻 **GitHub:** [@alidevofficial](https://github.com/alidevofficial)
