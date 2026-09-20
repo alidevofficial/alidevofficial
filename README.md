@@ -1,6 +1,6 @@
-# 🌐 Personal Portfolio Website
+# 🍁🍁 𝓗𝓲 👋, 𝓘'𝓶 𝓜𝓾𝓱𝓪𝓶𝓶𝓪𝓭 𝓐𝓵𝓲 𝓡𝓪𝓶𝔃𝓪𝓷 🍁🍁
 
-> Official personal portfolio website showcasing my web development projects, creative interfaces, and technical skills.
+> Official personal website showcasing my web development projects, creative interfaces, and technical skills.
 
 [![Live Site](https://img.shields.io/badge/Live_Site-Visit_Portfolio-brightgreen?style=for-the-badge&logo=google-chrome)](https://alidevofficial.github.io/Ali-Portfolio/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/alidevofficial/Ali-Portfolio)
@@ -38,15 +38,15 @@ To view or edit this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/alidevofficial/Ali-Portfolio.git](https://github.com/alidevofficial/Ali-Portfolio.git)
+   git clone https://github.com/alidevofficial/
 
 2. Open the folder:
-cd Ali-Portfolio
+cd Ali Dev Official
 
 👤 Author
 Muhammad Ali Ramzan
 
-Website: Ali's Portfolio
+Website: Ali Dev Official
 
 GitHub: @alidevofficial
 
@@ -54,3 +54,15 @@ GitHub: @alidevofficial
 
 - 🌐 **Live Portfolio:** [alidevofficial.github.io/OnlineLearningHub](https://alidevofficial.github.io/agetimecalc)
 - 💻 **GitHub:** [@alidevofficial](https://github.com/alidevofficial)
+
+📬 Contact & Support
+Developer: Ali Ramzan
+
+WhatsApp Support: +92 309 0002443
+
+Email: aliramzan00098@gmail.com
+
+📜 License 
+This project is proprietary and built for  Ali Dev Official. All rights reserved.
+
+Crafted with ❤️ for Ali Ramzan
