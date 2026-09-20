@@ -10,7 +10,7 @@
 ## 🚀 Live Demo
 
 Check out the live interactive website here:  
-👉 **[alidevofficial.github.io/Ali-Portfolio](https://alidevofficial.github.io/Ali-Portfolio/)**
+👉 **[alidevofficial.github.io/](https://alidevofficial.github.io/)**
 
 ---
 
